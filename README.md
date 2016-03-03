@@ -15,5 +15,5 @@ https://help.github.com/articles/markdown-basics/
 - 评论设计优劣时要多举一些具体的例子和需求，需要注意区分需求是否普遍及常用
 
 ## Issue 设定规则
--issue创建应有对应的label
+- issue创建应有对应的label
 
