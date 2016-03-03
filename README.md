@@ -14,5 +14,6 @@ https://help.github.com/articles/markdown-basics/
 - 提供设计方案时要多用code和json进行表述
 - 评论设计优劣时要多举一些具体的例子和需求，需要注意区分需求是否普遍及常用
 
-## Issue优先级设定规则
+## Issue 设定规则
+-issue创建应有对应的label
 
